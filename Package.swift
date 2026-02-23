@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/3squared/PeakOperation.git",
+            url: "https://github.com/Velociti-Solutions/PeakOperation.git",
             from: "4.0.0"
         )
     ],
